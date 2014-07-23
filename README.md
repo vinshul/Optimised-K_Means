@@ -2,7 +2,7 @@ Optimised-K_Means
 =================
 
 This project is related to the optimisation of the traditional K-Means algoritm in the parallel enviroment(Hadoop). Optimisation 
-in this context means that we are trying to us ebetter initiation techniques other than rabdom initiation or the one used in K-Means++.
+in this context means that we are trying to use better initiation techniques other than random initiation or the one used in K-Means++.
 The Java code contains the required MapReduce classes to run the Job.
 
 
